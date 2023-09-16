@@ -34,7 +34,7 @@ For our bot support, Do email [ infiniteytff@gmail.com ] or join our Whatsapp Su
 
 2. Scan the QR and upload ***Creds.json*** file to your XLICON-SESSION Folder. You Have to Fork The bot to Use The Bot....( You will recieve the ***Creds.json*** on your bot number after scanning the Qr)
     <br>
-<a href='https://replit.com/@ahil15/XLICON-Multi-Session?v=1' target="_blank"><img alt='SCAN QR' src='https://img.shields.io/badge/Scan_qr-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+<a href='https://replit.com/@ahil15/XLICON-Multi-qr?v=1' target="_blank"><img alt='SCAN QR' src='https://img.shields.io/badge/Scan_qr-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
 
 
 ## Installation 
@@ -116,12 +116,6 @@ https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
 ```
 https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 ```
-#### DEPLOY TO Replit 
-
-1. Now Deploy
-    <br>
-<p align="center"><a href="https://repl.it/github/ahil15/Xlicon-v2"> <img src="https://img.shields.io/badge/replit%20Deploy-black?style=for-the-badge&logo=replit" width="220" height="38.45"/></a></p>
-
 #### DEPLOY TO Codespaces
 
 1. Now Deploy
@@ -140,17 +134,6 @@ https://github.com/clhuang/heroku-buildpack-webp-binaries.git
     <br>
 <p align="center"><a href="https://studio.mogenius.com/"> <img src="https://img.shields.io/badge/Mongenius%20Deploy-blue?style=for-the-badge&logo=mongenius" width="220" height="38.45"/></a></p>
 
-#### DEPLOY TO Okteto
-
-1. Now Deploy
-    <br>
-<p align="center"><a href="https://cloud.okteto.com"> <img src="https://img.shields.io/badge/Okteto%20Deploy-darkblue?style=for-the-badge&logo=okteto" width="220" height="38.45"/></a></p>
-
-<br>
-<br>
-<br>
-<br>
-     
      
      
 - Termux
