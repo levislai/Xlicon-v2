@@ -99,6 +99,39 @@ Comment out/delete /* , */ the code form your Core.js line 224 and 332 in your o
 ```
 > npm start
 ```
+</details>
+
+## [`WATCH YOUTUBE VIDEOS`](youtube.com/infinite9454)
+ 
+  
+ * Deploy on Heroku Video ⇓
+ <p align="left">
+<a href="https://youtu.be/HBpZB1HYoPk?si=S8FEccLcp-nBtOMd"><img align="center" src="https://i.ibb.co/VVB2JHv/HBp-ZB1-HYo-Pk-SD.jpg" alt="DEPLOY" height="110" width="200" /></a>
+   
+* Deploy on Railway Video ⇓
+ <p align="left">
+<a href="coming soon"><img align="center" src="https://i.ibb.co/BCbcwtX/images.jpg" alt="DEPLOY" height="110" width="200" /></a>
+   
+* Deploy on Codespaces Video ⇓
+ <p align="left">
+<a href="[Coming soon](Coming Soon)"><img align="center" src="https://i.ibb.co/BCbcwtX/images.jpg" alt="DEPLOY" height="110" width="200" /></a>
+
+
+
+# 
+#
++ DEPLOY STEPS
+# 
+1. Fork This Repository 
+2. Update [`config.js`](https://github.com/ahil15/Xlicon-v2/blob/master/config.js)
+3. Upload the creds.json file to XLICON-SESSION folder
+4. Make account on your host
+5. Connect Your Repository to your web host site
+# 
+# 
+
+
+
 #### DEPLOY TO Heroku 
 
 1. Now Deploy
