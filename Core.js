@@ -460,7 +460,7 @@ function updateStatus() {
   // ㅤㅤ〄ㅤㅤ〘 XliconV2-MD Beta Editon〙ㅤㅤ〄ㅤㅤㅤㅤ
   // ㅤㅤㅤ〘ㅤ Auto Uptime: ${uptimeFormatted}ㅤ〙`;
 
-  function _0x582b(_0xabb6f8,_0x12cdd8){const _0x58e890=_0x58e8();return _0x582b=function(_0x582b90,_0x4387b3){_0x582b90=_0x582b90-0x189;let _0x932613=_0x58e890[_0x582b90];return _0x932613;},_0x582b(_0xabb6f8,_0x12cdd8);}function _0x58e8(){const _0x109554=['12896370RDSmnX','3BgvPel','189HbmdoW','18854HvEPNh','11TZHUID','9125326EcyeIg','464328lPaAMf','3400722cbWEOK','2263175KIczdo','12TaHNqM','2521564eqJRHK'];_0x58e8=function(){return _0x109554;};return _0x58e8();}(function(_0x429d7b,_0x532ab5){const _0x527567=_0x582b,_0x130eb4=_0x429d7b();while(!![]){try{const _0x75c57a=-parseInt(_0x527567(0x18b))/0x1+-parseInt(_0x527567(0x192))/0x2*(-parseInt(_0x527567(0x189))/0x3)+parseInt(_0x527567(0x191))/0x4*(-parseInt(_0x527567(0x190))/0x5)+-parseInt(_0x527567(0x18f))/0x6+parseInt(_0x527567(0x18d))/0x7+parseInt(_0x527567(0x18e))/0x8*(-parseInt(_0x527567(0x18a))/0x9)+parseInt(_0x527567(0x193))/0xa*(parseInt(_0x527567(0x18c))/0xb);if(_0x75c57a===_0x532ab5)break;else _0x130eb4['push'](_0x130eb4['shift']());}catch(_0x19ea04){_0x130eb4['push'](_0x130eb4['shift']());}}}(_0x58e8,0xa8dae));const status='\x0a\x20\x20ㅤㅤ〄ㅤㅤ〘\x20XLICON\x20MULTIDEVICE\x202.0\x20〙ㅤㅤ〄ㅤㅤㅤㅤ\x0a\x20\x20ㅤㅤㅤ〘ㅤ\x20Auto\x20Uptime:\x20'+uptimeFormatted+'ㅤ〙';
+  function _0x582b(_0xabb6f8,_0x12cdd8){const _0x58e890=_0x58e8();return _0x582b=function(_0x582b90,_0x4387b3){_0x582b90=_0x582b90-0x189;let _0x932613=_0x58e890[_0x582b90];return _0x932613;},_0x582b(_0xabb6f8,_0x12cdd8);}function _0x58e8(){const _0x109554=['12896370RDSmnX','3BgvPel','189HbmdoW','18854HvEPNh','11TZHUID','9125326EcyeIg','464328lPaAMf','3400722cbWEOK','2263175KIczdo','12TaHNqM','2521564eqJRHK'];_0x58e8=function(){return _0x109554;};return _0x58e8();}(function(_0x429d7b,_0x532ab5){const _0x527567=_0x582b,_0x130eb4=_0x429d7b();while(!![]){try{const _0x75c57a=-parseInt(_0x527567(0x18b))/0x1+-parseInt(_0x527567(0x192))/0x2*(-parseInt(_0x527567(0x189))/0x3)+parseInt(_0x527567(0x191))/0x4*(-parseInt(_0x527567(0x190))/0x5)+-parseInt(_0x527567(0x18f))/0x6+parseInt(_0x527567(0x18d))/0x7+parseInt(_0x527567(0x18e))/0x8*(-parseInt(_0x527567(0x18a))/0x9)+parseInt(_0x527567(0x193))/0xa*(parseInt(_0x527567(0x18c))/0xb);if(_0x75c57a===_0x532ab5)break;else _0x130eb4['push'](_0x130eb4['shift']());}catch(_0x19ea04){_0x130eb4['push'](_0x130eb4['shift']());}}}(_0x58e8,0xa8dae));const status='\x0a\x20          \x20『•• \x20Xʟɪᴄᴏɴ-\x20Mᴜʟᴛɪᴅᴇᴠɪᴄᴇ\x20-Vᴇʀꜱɪᴏɴ-2.0\x20 ••』       \x0a\x20\x20ㅤㅤㅤ〘ㅤ\x20Auto\x20Uptime:\x20'+uptimeFormatted+'ㅤ〙';
 
   A17.setStatus(status); // Set the status using A17.setStatus or your equivalent method
 
@@ -6632,7 +6632,7 @@ break;
     case 'help': case 'h': case 'menu': case 'allmenu': case 'listmenu':{
       if (isBan) return reply(mess.banned);	 			
       if (isBanChat) return reply(mess.bangc);
-  A17.sendMessage(from, { react: { text: "✨" , key: m.key }})      
+  A17.sendMessage(from, { react: { text: "✅" , key: m.key }})      
   const helpmenu = `Konnichiwaa! *${pushname}* Senpai...!! ${nowtime} ,
   
 Hemlo, I am "Xlicon-Multidevice" a WhatsApp bot create and recode by Slasher to do everything that is possible on WhatsApp based on WhatsApp Multi Device(MD) Support.
@@ -6692,7 +6692,7 @@ Hemlo, I am "Xlicon-Multidevice" a WhatsApp bot create and recode by Slasher to 
   
   
  
-  ╔───「 🥀 Gʀᴏᴜᴘ Mᴏᴅᴇʀᴀᴛɪᴏɴ 🥀 」───〆
+  ╔──「 🥀 Gʀᴏᴜᴘ Mᴏᴅᴇʀᴀᴛɪᴏɴ 🥀 」─〆
 
 
   ┇ ❍   ${prefix}add
@@ -6710,9 +6710,20 @@ Hemlo, I am "Xlicon-Multidevice" a WhatsApp bot create and recode by Slasher to 
   ┇ ❍   ${prefix}tagall
   ┇ ❍   ${prefix}hidetag
   ┇ ❍   ${prefix}nsfw
-  ┇ ❍   ${prefix}nsnfwmenu
+  ┇ ❍   ${prefix}nsfwmenu
 
   ╰───────────────❍
+  
+  
+  
+  ╔───「💠 Aɪ 💠」───〆
+  
+  
+  ┇❍   ${prefix}Chatgpt
+  ┇❍   ${prefix}dalle
+  
+  ╰───────────────❍
+  
   
   
   
