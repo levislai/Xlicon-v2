@@ -1,3 +1,4 @@
+
 {
     "name": "Xlicon-v2",
     "description": "A whatsApp bot based on Baileysjs linrary (Ts+Js) with Multi Device support",
@@ -7,12 +8,18 @@
     "buildpacks": [
       {
         "url": "heroku/nodejs"
-      }
-    ],
+    },
+    {
+      "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
+    },
+    {
+      "url": "https://github.com/clhuang/heroku-buildpack-webp-binaries.git"
+          }
+     ],
      "formation": {
           "worker": {
               "quantity": 1,
-              "size": "eco"
+              "size": "basic"
           }
       }
   }

@@ -48,23 +48,7 @@ global.BotName = "X-2.0";
 
 - Click the [`heroku-Deploy`](https://heroku.com/deploy?template=https://github.com/ahil15/Xlicon-v2) option in ***XLICON-V2*** repository
 
-- You must have to subscribe ***Eco Dyno*** on heroku to use the bot
-
-
 - Deploy the repository first using my repository
-
-- Go to heroku app settings and click `Add Buildpack`
-
-    <img alt="" height="135" src= "https://i.ibb.co/1XvpHhc/20230921-164855.png">
-
-- Add these buildpacks on your app
-
-```
-https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
-``` 
-```
-https://github.com/clhuang/heroku-buildpack-webp-binaries.git
-```
 
 - Now go to deploy Option in Heroku App
 

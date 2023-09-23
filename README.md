@@ -90,19 +90,7 @@ global.BotName = "X-2.0";
 
 1. Now Deploy
     <br>
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/ahil15/Xlicon-v2"> <img src="https://img.shields.io/badge/DEPLOY HEROKU-h?color=black&style=for-the-badge&logo=heroku"></a>
-
-</br>     
-
-<h2 align="center"> Add This 2 Builbpacks On Heroku
-</h2>
-
-```
-https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
-``` 
-```
-https://github.com/clhuang/heroku-buildpack-webp-binaries.git
-```
+<p align="center"><a href="https://xlicon-md-psi.vercel.app/deploy.html"> <img src="https://img.shields.io/badge/DEPLOY HEROKU-h?color=black&style=for-the-badge&logo=heroku"></a>
 
 <p align="center"><a href="https://youtu.be/HBpZB1HYoPk?si=a0-C60sieMnMX0xs"><img title="" src="https://img.shields.io/badge/heroku%20TUTORIAL-red?style=for-the-badge&logo=youtube"></a>
 
@@ -206,6 +194,9 @@ For our bot support, Do email [ infiniteytff@gmail.com ] or join our Whatsapp Su
 
 <a href="https://www.buymeacoffee.com/slashernolongerlive"><img src="https://img.buymeacoffee.com/button-api/?text=Support this project&emoji=&slug=slashernolongerlive&button_colour=FFDD00&font_colour=000000&font_family=Poppins&outline_colour=000000&coffee_colour=ffffff" width="200" height="38.45"/></a></p>
 
+
+<h2 align="center"> Star the repo if u like it🌟
+</h2>
 
 </br> 
 
